@@ -4,7 +4,7 @@
 
 <img src="public/logo.png" alt="BookBurst Logo" width="200"/>
 
-### Your Personal Reading Journey Companion
+### Your Ultimate Personal Reading Journey Companion
 
 [![React](https://img.shields.io/badge/React-18.x-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
